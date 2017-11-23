@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elektronikus on Dr. Földvárszki Szimonetta Ügyvédi Iroda</title>
+    <link>http://example.org/tags/elektronikus/</link>
+    <description>Recent content in Elektronikus on Dr. Földvárszki Szimonetta Ügyvédi Iroda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu-hu</language>
+    <lastBuildDate>Fri, 01 May 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/elektronikus/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Már a beszámoló is csak elektronikus úton nyújtható be</title>
+      <link>http://example.org/posts/2009/elektronikus-beszamolo/</link>
+      <pubDate>Fri, 01 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009/elektronikus-beszamolo/</guid>
+      <description>május 1. napján, vagy azt követően benyújtott beszámolókat már csak elektronikus úton, a kormányzati portálon keresztül lehet benyújtani a céginformációs szolgálathoz, aki a beszámolót az adóhatósághoz is továbbítja. A cég a beszámoló elektronikus megküldésével a beszámoló letétbe helyezési és közzétételi kötelezettségének is eleget tesz.  A társaságok a letétbe helyezési és közzétételi kötelezettségnek papír alapon 2009. április 30-áig tehettek eleget, ezt követően erre már nincs mód. A beszámoló benyújtásának elmaradása esetén az adóhatóság 15 napos határidő alkalmazásával felhívja a céget a beszámoló benyújtásának pótlására, a határidő eredménytelen eltelte esetén a cég adószámát felfüggeszti.</description>
+    </item>
+    
+  </channel>
+</rss>

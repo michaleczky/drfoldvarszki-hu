@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alkotmánybíróság on Dr. Földvárszki Szimonetta Ügyvédi Iroda</title>
+    <link>http://example.org/tags/alkotm%C3%A1nyb%C3%ADr%C3%B3s%C3%A1g/</link>
+    <description>Recent content in Alkotmánybíróság on Dr. Földvárszki Szimonetta Ügyvédi Iroda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu-hu</language>
+    <lastBuildDate>Fri, 11 Feb 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/alkotm%C3%A1nyb%C3%ADr%C3%B3s%C3%A1g/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Élettársi kapcsolat regisztrációja</title>
+      <link>http://example.org/posts/2011/elettarsi-kapcs-reg/</link>
+      <pubDate>Fri, 11 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2011/elettarsi-kapcs-reg/</guid>
+      <description>Bár az Alkotmánybíróság korábban megvétózta bevezetését, ennek ellenére a házasságok mellett egyre jobban elszaporodó élettársi kapcsolatok regisztrációja mégis zöld utat kapott, nem csak az azonos nemű, hanem a külön nemű párok esetében is.
+A regisztrációra a lakóhely, vagy tartózkodási hely szerinti illetékes közjegyzőnél van lehetőség, Budapesten a lakóhely szerinti kerületen belül bármelyik kerületi közjegyzőt meg lehet keresni. A közjegyző a személyi okmányokon túl kérheti a születési anyakönyvi kivonat bemutatását is. A nyilvántartásba vételt bármely két nem cselekvőképtelen, nagykorú személy kérelmezheti, az élettársaknak a közjegyző előtt személyesen, közösen kell nyilatkozatot tenniük arról, hogy egymással élettársi kapcsolatban élnek.</description>
+    </item>
+    
+  </channel>
+</rss>

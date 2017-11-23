@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Dr. Földvárszki Szimonetta Ügyvédi Iroda</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on Dr. Földvárszki Szimonetta Ügyvédi Iroda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu-hu</language>
+    <lastBuildDate>Thu, 17 Feb 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ajándékozás</title>
+      <link>http://example.org/tags/aj%C3%A1nd%C3%A9koz%C3%A1s/</link>
+      <pubDate>Thu, 17 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/aj%C3%A1nd%C3%A9koz%C3%A1s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alkotmánybíróság</title>
+      <link>http://example.org/tags/alkotm%C3%A1nyb%C3%ADr%C3%B3s%C3%A1g/</link>
+      <pubDate>Fri, 11 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/alkotm%C3%A1nyb%C3%ADr%C3%B3s%C3%A1g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beszámoló</title>
+      <link>http://example.org/tags/besz%C3%A1mol%C3%B3/</link>
+      <pubDate>Fri, 01 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/besz%C3%A1mol%C3%B3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cég</title>
+      <link>http://example.org/tags/c%C3%A9g/</link>
+      <pubDate>Fri, 01 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/c%C3%A9g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elektronikus</title>
+      <link>http://example.org/tags/elektronikus/</link>
+      <pubDate>Fri, 01 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/elektronikus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hagyaték</title>
+      <link>http://example.org/tags/hagyat%C3%A9k/</link>
+      <pubDate>Wed, 18 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/hagyat%C3%A9k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Illeték</title>
+      <link>http://example.org/tags/illet%C3%A9k/</link>
+      <pubDate>Thu, 17 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/illet%C3%A9k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Élettársi Kapcsolat</title>
+      <link>http://example.org/tags/%C3%A9lett%C3%A1rsi-kapcsolat/</link>
+      <pubDate>Fri, 11 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/%C3%A9lett%C3%A1rsi-kapcsolat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Öröklés</title>
+      <link>http://example.org/tags/%C3%B6r%C3%B6kl%C3%A9s/</link>
+      <pubDate>Wed, 18 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/%C3%B6r%C3%B6kl%C3%A9s/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

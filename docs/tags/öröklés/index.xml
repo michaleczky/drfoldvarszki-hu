@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Öröklés on Dr. Földvárszki Szimonetta Ügyvédi Iroda</title>
+    <link>http://example.org/tags/%C3%B6r%C3%B6kl%C3%A9s/</link>
+    <description>Recent content in Öröklés on Dr. Földvárszki Szimonetta Ügyvédi Iroda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu-hu</language>
+    <lastBuildDate>Wed, 18 Mar 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/%C3%B6r%C3%B6kl%C3%A9s/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Változás az illetékek esetében: Illetékmentesség 20 millió forintig</title>
+      <link>http://example.org/posts/2009/illetekmentesseg-20mftig/</link>
+      <pubDate>Wed, 18 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2009/illetekmentesseg-20mftig/</guid>
+      <description>A 2008. decemberi adómódosító törvény az illetéktörvény egyes szabályait is módosította, ezek közül talán a legnagyobb jelentőségű az öröklési illeték esetén új mentességi szabály bevezetése.
+Örökösönként 20.000.000,- Ft, azaz húszmillió forintig illetékmentes az örökhagyó szülője, gyermeke, háztartásában eltartott szülő nélküli unokája, házastársa által örökölt vagyon.
+A 20 millió forintos értékhatárig szóló mentesség csak az illetéktörvény 12. § szerinti táblázat I. csoportjába tartozó örökösökre vonatkozik, azonban nem csak az ingatlan, hanem az ingó vagyontárgyakra is.</description>
+    </item>
+    
+  </channel>
+</rss>
