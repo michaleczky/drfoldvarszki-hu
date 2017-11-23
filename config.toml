@@ -3,6 +3,7 @@ languageCode = "hu-hu"
 title = "Dr. Földvárszki Szimonetta Ügyvédi Iroda"
 theme = "ananke"
 sectionPagesMenu = "main"
+publishDir = "docs"
 
 DefaultContentLanguage = "hu"
 MetaDataFormat = "toml"
