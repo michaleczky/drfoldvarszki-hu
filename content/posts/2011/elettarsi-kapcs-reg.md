@@ -2,6 +2,7 @@
 title = "Élettársi kapcsolat regisztrációja"
 date = "2011-02-11"
 description = "Bár az Alkotmánybíróság korábban megvétózta bevezetését, ennek ellenére a házasságok mellett egyre jobban elszaporodó élettársi kapcsolatok regisztrációja mégis zöld utat kapott, nem csak az azonos nemű, hanem a külön nemű párok esetében is."
+tags = ["élettársi kapcsolat", "alkotmánybíróság"]
 +++
 
 Bár az Alkotmánybíróság korábban megvétózta bevezetését, ennek ellenére a házasságok mellett egyre jobban elszaporodó élettársi kapcsolatok regisztrációja mégis zöld utat kapott, nem csak az azonos nemű, hanem a külön nemű párok esetében is.
