@@ -1,0 +1,9 @@
+baseURL = "http://example.org/"
+languageCode = "hu-hu"
+title = "Dr. Földvárszki Szimonetta Ügyvédi Iroda"
+theme = "ananke"
+sectionPagesMenu = "main"
+
+DefaultContentLanguage = "hu"
+MetaDataFormat = "toml"
+Paginate = 3
