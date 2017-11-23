@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://michaleczky.github.io/drfoldvarszki-hu/"
 languageCode = "hu-hu"
 title = "Dr. Földvárszki Szimonetta Ügyvédi Iroda"
 theme = "ananke"

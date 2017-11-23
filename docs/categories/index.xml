@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Dr. Földvárszki Szimonetta Ügyvédi Iroda</title>
-    <link>http://example.org/categories/</link>
+    <link>https://michaleczky.github.io/drfoldvarszki-hu/categories/</link>
     <description>Recent content in Categories on Dr. Földvárszki Szimonetta Ügyvédi Iroda</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>hu-hu</language>
     
-	<atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://michaleczky.github.io/drfoldvarszki-hu/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
