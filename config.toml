@@ -8,3 +8,6 @@ publishDir = "docs"
 DefaultContentLanguage = "hu"
 MetaDataFormat = "toml"
 Paginate = 3
+
+[params]
+    featured_image = "images/my-hero-image.jpg"
